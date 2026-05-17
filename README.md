@@ -1,16 +1,30 @@
-## Hi there 👋
+# Priyanshi Joshi
 
-<!--
-**priyanshijoshiii/priyanshijoshiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sophomore at NIT Hamirpur building full-stack web applications and exploring backend development.
 
-Here are some ideas to get you started:
+## Currently Working On
+- Full-stack applications with Next.js and TypeScript
+- Backend development with Node.js
+- Data Structures & Algorithms
+- AI-powered web projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages**  
+Python • JavaScript • TypeScript • C++
+
+**Frontend**  
+React • Next.js • Tailwind CSS
+
+**Backend**  
+Node.js • Express.js • FastAPI
+
+**Database & Cloud**  
+MongoDB Atlas • Vercel • Render
+
+**Tools**  
+Git • GitHub • VS Code
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/priyanshi-joshi-61258a344/
+- Email: priyanshi.joshi001@gmail.com
