@@ -33,14 +33,5 @@ Currently a sophomore at NIT Hamirpur exploring backend development and figuring
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 ![Render](https://img.shields.io/badge/-Render-000?style=for-the-badge&logo=render)
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visualstudiocode)
-![Cursor](https://img.shields.io/badge/-Cursor-000?style=for-the-badge)
-![Claude](https://img.shields.io/badge/-Claude_Code-000?style=for-the-badge)
-
----
-
 ## Connect
 📫 priyanshi.joshi001@gmail.com
