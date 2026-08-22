@@ -39,6 +39,6 @@ you'll find me on a run, or just sitting with my thoughts, trying to understand 
 
 ---
 
-## reach me
+## get in touch
 
 [github](https://github.com/priyanshijoshiii) · [linkedin](https://www.linkedin.com/in/priyanshi-joshi-61258a344/) · priyanshi.joshi001@gmail.com
