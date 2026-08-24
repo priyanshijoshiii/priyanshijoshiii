@@ -22,20 +22,9 @@ i like building things i actually understand.
 
 ---
 
-## stack
-
-```
-Languages   TypeScript · JavaScript · Python · C++
-Frontend    React · Next.js
-Backend     Node.js · Express · Convex
-Infra       Docker · GitHub Actions · Vercel · Railway
-```
-
----
-
 ## off hours
 
-you'll find me on a run, or just sitting with my thoughts, trying to understand some emotion i can't name yet. i like to paint, write, observe.
+you'll find me on a run, or just sitting with my thoughts, trying to understand some emotion i can't name yet. i like to paint, write, observe, have music on almost all the time.
 
 ---
 
